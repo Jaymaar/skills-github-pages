@@ -1,4 +1,4 @@
 ---
-title: Hey, I'm Jaymaar!
+Data Driven Journey: Hey, I'm Jaymaar!
 ---
 
